@@ -1,7 +1,7 @@
-# YotoAdventPodcast
+# AdventPodcast
 
 This quick and dirty PHP script does daily updates of an RSS feed pointing to MP3 files during the month of December - effectively creating a daily advent podcast from the content files. 
-This is intended to be used with MYO cards and [Yoto players](https://www.yotoplay.com)
+This is intended to be used with [Yoto players](https://www.yotoplay.com) and the Make Your Own cards, however this script is nothing to do with Yoto themselves in any way.
 
 It is expected that you have some PHP knowledge and skill to be able to succesfully make this work in your environment. This script is supplied as-is with no warranties.
 
